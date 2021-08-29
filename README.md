@@ -12,6 +12,6 @@
 ## 使用方法
 - 可执行文件运行
 - python main.py -username USERNAME -password PASSWORD
-- 其中username(学号), password(密码)为必填参数
+- 其中username(账号), password(密码)为必填参数
 
 ## 代码如有bug请提交issue或联系QQ1491775988
