@@ -10,7 +10,6 @@
 - 与本机chrome版本匹配的chromedriver
 - 外部依赖库：selenium
 ## 使用方法
-- 可执行文件运行
 - python main.py -username USERNAME -password PASSWORD
 - 其中username(账号), password(密码)为必填参数
 
